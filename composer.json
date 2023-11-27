@@ -1,5 +1,5 @@
 {
-    "name": "cheppers/gathercontent-client",
+    "name": "dpc-sdp/gathercontent-client",
     "description": "GatherContent client",
     "type": "library",
     "license": "GPL-2.0+",
