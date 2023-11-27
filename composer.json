@@ -11,7 +11,7 @@
         "optimize-autoloader": true
     },
     "require": {
-        "guzzlehttp/guzzle": "^6.3"
+        "guzzlehttp/guzzle": "^7"
     },
     "require-dev": {
         "cheppers/git-hooks": "^0.0.9",
